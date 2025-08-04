@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "fullName": "Selim Rana",
+    "age": 25,
+    "occupation": "Developer"
+  },
+  {
+    "id": 2,
+    "fullName": "Rahim Uddin",
+    "age": 30,
+    "occupation": "Designer"
+  },
+  {
+    "id": 3,
+    "fullName": "Karim Ali",
+    "age": 22,
+    "occupation": "Student"
+  },
+  {
+    "id": 4,
+    "fullName": "Fatima Noor",
+    "age": 28,
+    "occupation": "Doctor"
+  },
+  {
+    "id": 5,
+    "fullName": "Ayesha Khan",
+    "age": 27,
+    "occupation": "Engineer"
+  }
+]
