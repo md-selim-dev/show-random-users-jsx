@@ -2,10 +2,11 @@
 
 ### How to run localy:
 ```bash```
-~~~ <code>git clone https://github.com/md-selim-dev/show-random-users-jsx.git <code>
+```
+git clone [https://github.com/md-selim-dev/show-random-users-jsx.git]
 cd show-random-users-jsx
 npm run dev
-~~~
+```
 
 
 
