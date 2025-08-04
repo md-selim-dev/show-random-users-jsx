@@ -1,5 +1,7 @@
 # React + Vite
 
+![alt text](randomUserApp.png)
+
 ### How to run localy:
 ```bash```
 ```
